@@ -1,7 +1,7 @@
 # HelloWord
 ### A Simple Solidity HelloWord Code in Coutersy of BlockGames
 
-#### Contract Address : `0x6c41D21A3D9c9196EC481d13505d168271043b28`
+#### Contract Address : https://rinkeby.etherscan.io/address/0x6c41d21a3d9c9196ec481d13505d168271043b28
 
 Deployed on the Rinkeby Testnet using `Truffle Dashboard`
 
